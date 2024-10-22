@@ -70,6 +70,8 @@ npm run start
 
 ## 📺 Walkthrough
 
+Watch the walkthrough [here](https://drive.google.com/file/d/1JDtwEpep1-bLZXZ68GJi7SV3iDoHUAeN/view)
+
 ## ❓ Questions
 
 ### Github profile below 👇
